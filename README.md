@@ -1,6 +1,6 @@
 🚀 Internship Role: Data Science Intern at Oasis Infobyte
 
-📌 Project: Completed multiple machine learning and data analysis tasks using Python and Jupyter Notebook.
+📌 Project: Completed multiple machine learning and data analysis tasks using Python and Google Colab.
 
 📂 Project Overview
 
@@ -14,4 +14,4 @@
 
 5️⃣ Sales Prediction – Forecasted sales trends using predictive modeling.
 
-🔹 Tech Stack: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook
+🔹 Tech Stack: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Google Colab.
